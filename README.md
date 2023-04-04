@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://adarsh78.github.io/fylo-data-storage-component-master/))
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://adarsh78.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
