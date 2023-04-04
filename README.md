@@ -10,7 +10,6 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -23,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://adarsh78.github.io/fylo-data-storage-component-master/))
 
 ## My process
 
